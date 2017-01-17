@@ -1,6 +1,6 @@
-# chat bot
+## chat bot
 
-【背景知识】
+#【背景知识】
 1、模型选择
   检索模型：根据输入和上下文，从语料库中找到一个较好的回答。
   生成模型：不依赖语料库，通常基于机器翻译技术，完成输入到输出的映射。
@@ -10,16 +10,19 @@
 
 2、挑战
 
+#【项目介绍】
+ 本项目主要采用基于检索的方式来完成chatbot
+ 
+ 
+#【安装】
 
-3、参考paper
+
+#【使用】
+
+
+
+#【参考】
 Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models
 Attention with Intention for a Neural Network Conversation Model
 A Persona-Based Neural Conversation Model
 A Diversity-Promoting Objective Function for Neural Conversation Models
-
-
-【安装】
-
-
-【使用】
-
